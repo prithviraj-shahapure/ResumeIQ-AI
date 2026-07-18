@@ -122,7 +122,7 @@
 
 # 
 
-# !\[Home](screenshots/home.png)
+# !\[Home](Screenshots/home.png)
 
 # 
 
@@ -134,7 +134,7 @@
 
 # 
 
-# !\[ATS Score](screenshots/ats-score.png)
+# !\[ATS Score](Screenshots/ats-score.png)
 
 # 
 
@@ -146,7 +146,7 @@
 
 # 
 
-# !\[Skill Match](screenshots/skill-match.png)
+# !\[Skill Match](Screenshots/skill-match.png)
 
 # 
 
