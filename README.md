@@ -1,44 +1,28 @@
-# \# 🚀 ResumeIQ AI
+# 🚀 ResumeIQ AI
 
-# 
+<div align="center">
 
-# <div align="center">
+### AI-Powered Resume Screener & ATS Analyzer
 
-# 
+Analyze resumes, calculate ATS scores, identify missing skills, recommend personalized courses, and receive intelligent resume improvement suggestions.
 
-# \### AI-Powered Resume Screener \& ATS Analyzer
+<br>
 
-# 
+![Python](https://img.shields.io/badge/Python-3.11-blue?style=for-the-badge&logo=python)
+![Flask](https://img.shields.io/badge/Flask-Backend-black?style=for-the-badge&logo=flask)
+![React](https://img.shields.io/badge/React-Frontend-61DAFB?style=for-the-badge&logo=react)
+![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-UI-06B6D4?style=for-the-badge&logo=tailwindcss)
+![License](https://img.shields.io/badge/License-GPL--2.0-green?style=for-the-badge)
 
-# Analyze resumes, calculate ATS scores, identify missing skills, recommend courses, and receive intelligent resume improvement suggestions.
+</div>
 
-# 
+---
 
-# !\[Python](https://img.shields.io/badge/Python-3.11-blue?style=for-the-badge\&logo=python)
+# 📖 Overview
 
-# !\[Flask](https://img.shields.io/badge/Flask-Backend-black?style=for-the-badge\&logo=flask)
+ResumeIQ AI is an intelligent resume evaluation platform that helps job seekers optimize their resumes for Applicant Tracking Systems (ATS).
 
-# !\[React](https://img.shields.io/badge/React-Frontend-61DAFB?style=for-the-badge\&logo=react)
-
-# !\[Tailwind CSS](https://img.shields.io/badge/Tailwind-CSS-38B2AC?style=for-the-badge\&logo=tailwind-css)
-
-# !\[License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
-
-# 
-
-# </div>
-
-# 
-
-# \---
-
-# 
-
-# \## 📖 About
-
-# 
-
-# ResumeIQ AI is an AI-powered Resume Screening platform designed to help job seekers optimize their resumes for Applicant Tracking Systems (ATS). It analyzes resumes, extracts skills, evaluates resume quality, identifies missing skills, recommends learning resources, and provides actionable suggestions to improve employability.
+The application analyzes resumes, extracts skills, evaluates ATS compatibility, identifies missing skills, recommends learning resources, and provides personalized suggestions to improve employability.
 
 # 
 
@@ -122,7 +106,7 @@
 
 # 
 
-# !\[Home](Screenshots/home.png)
+# !\[Home](screenshots/home.png)
 
 # 
 
@@ -134,7 +118,7 @@
 
 # 
 
-# !\[ATS Score](Screenshots/ats-score.png)
+# !\[ATS Score](screenshots/ats-score.png)
 
 # 
 
@@ -146,245 +130,136 @@
 
 # 
 
-# !\[Skill Match](Screenshots/skill-match.png)
+# !\[Skill Match](screenshots/skill-match.png)
 
-# 
+---
 
-# \---
+# 🛠️ Tech Stack
 
-# 
+## Frontend
 
-# \## 🚀 Installation
+- React
+- Tailwind CSS
+- Framer Motion
+- Lucide Icons
 
-# 
+## Backend
 
-# \### Clone Repository
+- Flask
+- Python
 
-# 
+## AI & NLP
 
-# ```bash
+- NLTK
+- spaCy
+- PyResParser
 
-# git clone https://github.com/YOUR\_USERNAME/ResumeIQ-AI.git
+---
 
-# ```
+# 🚀 Installation
 
-# 
+Clone the repository
 
-# \### Open Project
+```bash
+git clone https://github.com/prithviraj-shahapure/ResumeIQ-AI.git
+```
 
-# 
+Go to the project
 
-# ```bash
+```bash
+cd ResumeIQ-AI
+```
 
-# cd ResumeIQ-AI
+Create Virtual Environment
 
-# ```
+```bash
+python -m venv venv
+```
 
-# 
+Activate Virtual Environment
 
-# \### Create Virtual Environment
+### Windows
 
-# 
+```bash
+venv\Scripts\activate
+```
 
-# ```bash
+### Linux/macOS
 
-# python -m venv venv
+```bash
+source venv/bin/activate
+```
 
-# ```
+Install dependencies
 
-# 
+```bash
+pip install -r requirements.txt
+```
 
-# \### Activate Virtual Environment
+Run the project
 
-# 
+```bash
+python app.py
+```
 
-# \#### Windows
+Open
 
-# 
+```
+http://127.0.0.1:5000
+```
 
-# ```bash
+---
 
-# venv\\Scripts\\activate
+# 📂 Project Structure
 
-# ```
+```
+ResumeIQ-AI
+│
+├── app.py
+├── requirements.txt
+├── README.md
+├── LICENSE
+├── routes/
+├── services/
+├── models/
+├── templates/
+├── static/
+├── data/
+└── Screenshots/
+```
 
-# 
+---
 
-# \#### Linux / macOS
+# 🚀 Future Improvements
 
-# 
+- 🤖 GPT-powered Resume Analysis
+- 📄 Job Description Matching
+- 🎤 AI Interview Question Generator
+- 📈 Resume Score Analytics
+- 📥 Export Analysis as PDF
+- 👤 User Authentication
+- ☁️ Cloud Deployment
 
-# ```bash
+---
 
-# source venv/bin/activate
+# 👨‍💻 Author
 
-# ```
+**Prithviraj Shahapure**
 
-# 
+B.Tech Artificial Intelligence & Machine Learning
 
-# \### Install Dependencies
+---
 
-# 
+# ⭐ Support
 
-# ```bash
+If you found this project useful, consider giving it a ⭐ on GitHub!
 
-# pip install -r requirements.txt
+---
 
-# ```
+<div align="center">
 
-# 
+Made with ❤️ using Python, Flask, React & AI
 
-# \### Run the Application
+© 2026 ResumeIQ AI
 
-# 
-
-# ```bash
-
-# python app.py
-
-# ```
-
-# 
-
-# Open your browser and visit:
-
-# 
-
-# ```
-
-# http://127.0.0.1:5000
-
-# ```
-
-# 
-
-# \---
-
-# 
-
-# \# 📂 Project Structure
-
-# 
-
-# ```
-
-# ResumeIQ-AI/
-
-# │
-
-# ├── app.py
-
-# ├── requirements.txt
-
-# ├── routes/
-
-# ├── services/
-
-# ├── models/
-
-# ├── data/
-
-# ├── static/
-
-# ├── templates/
-
-# ├── screenshots/
-
-# │   ├── home.png
-
-# │   ├── ats-score.png
-
-# │   └── skill-match.png
-
-# └── README.md
-
-# ```
-
-# 
-
-# \---
-
-# 
-
-# \# 🎯 Future Enhancements
-
-# 
-
-# \- 🤖 GPT-powered Resume Analysis
-
-# \- 📄 Job Description Matching
-
-# \- ✨ Resume Rewrite Suggestions
-
-# \- 💬 AI Career Assistant
-
-# \- 🎤 Interview Question Generator
-
-# \- 📥 PDF Report Export
-
-# \- 🌐 One-click Deployment
-
-# \- 🔐 User Authentication
-
-# \- 📊 Resume History Dashboard
-
-# 
-
-# \---
-
-# 
-
-# \# 🤝 Contributing
-
-# 
-
-# Contributions are welcome!
-
-# 
-
-# 1\. Fork the repository
-
-# 2\. Create a new feature branch
-
-# 3\. Commit your changes
-
-# 4\. Push your branch
-
-# 5\. Open a Pull Request
-
-# 
-
-# \---
-
-# 
-
-# \# 📄 License
-
-# 
-
-# This project is licensed under the \*\*MIT License\*\*.
-
-# 
-
-# \---
-
-# 
-
-# <div align="center">
-
-# 
-
-# \### ⭐ If you found this project helpful, consider giving it a Star!
-
-# 
-
-# \*\*Designed \& Developed by Prithviraj Shahapure\*\*
-
-# 
-
-# © 2026 ResumeIQ AI. All Rights Reserved.
-
-# 
-
-# </div>
-
+</div>
