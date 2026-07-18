@@ -1,0 +1,39 @@
+{
+    "filename": {
+        "name": "NIDHI WORAH",
+        "email": "nidhiworah02@gmail.com",
+        "mobile_number": "+91 8779187898",
+        "skills": [
+            "Matplotlib",
+            "TensorFlow",
+            "OpenCV",
+            "SQL",
+            "Data analysis",
+            "Machine learning",
+            "Artificial intelligence",
+            "Database management",
+            "Python",
+            "HTML",
+            "Linux",
+            "Git",
+            "Machine learning",
+            "Artificial intelligence",
+            "Natural language processing",
+            "Computer vision"
+        ],
+        "college_name": null,
+        "degree": null,
+        "designation": [
+            "Ignitus  | Computer Vision Intern                           10 2022 \u2013 03 2023",
+            "Developer  Tools:  VS Code, Github, Power BI, Jupyter Notebook, Google Colab, Figma",
+            "Nirmaan Hyperloop  | Software Associate & Design Lead                  ~ March 2023",
+            "\u2022 Lead a team of 4 to manage the club\u2019s website and curate content for social media platforms"
+        ],
+        "experience": null,
+        "company_names": [
+            "Google"
+        ],
+        "no_of_pages": 1,
+        "total_experience": 4.0
+    }
+}

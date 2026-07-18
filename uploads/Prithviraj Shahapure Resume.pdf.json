@@ -1,0 +1,29 @@
+{
+    "filename": {
+        "name": "Prithviraj Sanjay Shahapure",
+        "email": "prithviraj-shahapurecyclistprithvi@gmail.com",
+        "mobile_number": "+91 8055617674",
+        "skills": [
+            "NumPy",
+            "pandas",
+            "Matplotlib",
+            "Scikit-learn",
+            "SQL",
+            "Machine learning",
+            "Python",
+            "HTML",
+            "CSS",
+            "AWS",
+            "Machine learning"
+        ],
+        "college_name": "Chhatrapati Shahu Vidyalaya & Junior College, Kolhapur2021 - 2023",
+        "degree": null,
+        "designation": null,
+        "experience": null,
+        "company_names": [
+            "Google"
+        ],
+        "no_of_pages": 1,
+        "total_experience": 5.0
+    }
+}

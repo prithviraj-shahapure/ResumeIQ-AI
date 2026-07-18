@@ -1,0 +1,38 @@
+{
+    "filename": {
+        "name": "PRATHIK SHETTY",
+        "email": "prathikkshetty15@gmail.com",
+        "mobile_number": "+91 9326344685",
+        "skills": [
+            "Flask",
+            "SQL",
+            "Machine learning",
+            "Artificial intelligence",
+            "Web development",
+            "Database management",
+            "Python",
+            "JavaScript",
+            "Linux",
+            "Git",
+            "React",
+            "Azure",
+            "Machine learning",
+            "Artificial intelligence",
+            "Deep learning",
+            "Backend development"
+        ],
+        "college_name": null,
+        "degree": null,
+        "designation": [
+            "Developer  Tools: VS Code, Atom, Google collab, Jupyter notebook, Postman, Notion, Figma",
+            "Google developer student clubs                                                   08 2022 - current"
+        ],
+        "experience": null,
+        "company_names": [
+            "Google",
+            "Microsoft"
+        ],
+        "no_of_pages": 1,
+        "total_experience": 7.0
+    }
+}

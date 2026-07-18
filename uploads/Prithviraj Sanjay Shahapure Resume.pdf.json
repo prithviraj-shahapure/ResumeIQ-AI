@@ -1,0 +1,34 @@
+{
+    "filename": {
+        "name": "Candidate Profile",
+        "email": "prithvi.ai.web@gmail.com",
+        "mobile_number": "8055617674",
+        "skills": [
+            "NumPy",
+            "pandas",
+            "Matplotlib",
+            "Scikit-learn",
+            "SQL",
+            "Machine learning",
+            "Artificial intelligence",
+            "Python",
+            "HTML",
+            "CSS",
+            "AWS",
+            "Machine learning",
+            "Artificial intelligence"
+        ],
+        "college_name": "D. Y. Patil College of Engineering & Technology (DYPCET) -",
+        "degree": [
+            "Bachelor of Technology (B.Tech)Computer Science and Engineering (Artificial Intelligence & Machine Learning)"
+        ],
+        "designation": null,
+        "experience": null,
+        "company_names": [
+            "Google",
+            "Amazon"
+        ],
+        "no_of_pages": 2,
+        "total_experience": 0.0
+    }
+}
