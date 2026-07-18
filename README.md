@@ -106,7 +106,7 @@ The application analyzes resumes, extracts skills, evaluates ATS compatibility, 
 
 # 
 
-# !\[Home](Screenshots/home.png)
+# !\[Home](Screenshots/Home.png)
 
 # 
 
@@ -118,7 +118,7 @@ The application analyzes resumes, extracts skills, evaluates ATS compatibility, 
 
 # 
 
-# !\[ATS Score](Screenshots/ats-score.png)
+# !\[ATS Score](Screenshots/ATS-Score.png)
 
 # 
 
