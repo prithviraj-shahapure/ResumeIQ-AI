@@ -45,13 +45,13 @@ It automatically parses resumes, extracts skills, calculates ATS scores, identif
 
 ## 🏠 Home Page
 
-![Home](Screenshots/home.png)
+![Home](Screenshots/Home.png)
 
 ---
 
 ## 📊 ATS Score Dashboard
 
-![ATS Score](Screenshots/ats-score.png)
+![ATS Score](Screenshots/ATS-Score.png)
 
 ---
 
